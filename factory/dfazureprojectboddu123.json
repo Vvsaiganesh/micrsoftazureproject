@@ -1,0 +1,15 @@
+{
+	"name": "dfazureprojectboddu123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f14396d9-f090-42cc-abc2-e2dda485d73d",
+		"tenantId": "bc69827c-11e4-4b86-beb5-f3819a9b472b"
+	}
+}
